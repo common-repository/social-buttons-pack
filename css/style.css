@@ -1,0 +1,54 @@
+/*
+* Plugin css
+*/
+.twttr_twitter,
+.twttr_followme,
+.twttr_hashtag,
+.twttr_mention {
+	vertical-align: middle;
+}
+body.twentyfourteen .pntrst-button-wrap,
+body.twentyfourteen .fcbk_share {
+    vertical-align: super;
+}
+body.twentyfifteen .pntrst-button-wrap {
+	vertical-align: top;
+}
+body.twentysixteen .lnkdn_buttons,
+body.twentysixteen .fcbk_share {
+	vertical-align: middle;
+}
+body.twentytwelve .pntrst-button-wrap,
+body.twentytwelve .lnkdn_buttons {
+	vertical-align: middle;
+}
+body.twentytwelve .fcbk_share,
+body.twentytwelve .pntrst-button-wrap span {
+	vertical-align: top;
+}
+body.twentythirteen .fcbk_share {
+	vertical-align: super;
+}
+body.twentythirteen .pntrst-button-wrap span {
+	vertical-align: top;
+}
+body.twentythirteen .lnkdn_buttons {
+	vertical-align: middle;
+}
+
+/* Instagram buttons */
+#nstgrm_right {
+	text-align: right;
+}
+#nstgrm_middle {
+	text-align: center;
+}
+#nstgrm_left {
+	text-align: left;
+}
+.nstgrm_button {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 10px;
+	margin-bottom: 5px;
+}
